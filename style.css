@@ -2,4 +2,15 @@
 
 body{
     font-family: 'Quicksand', sans-serif;
+    background: #000;
+}
+.nameHeader{
+    width: 50%;
+    height: 5vw;
+    margin: auto;
+    text-align: center;
+}
+#nameText{
+    color: #fff;
+    font-size: 3vw;
 }
